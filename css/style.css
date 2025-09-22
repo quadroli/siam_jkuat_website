@@ -296,6 +296,10 @@ a {
     .hero-subtitle {
         font-size: 1.2rem;
     }
+
+    .card-deck {
+        grid-template-columns: 1fr;
+    }
 }
 
 /* --- Scroll Animations --- */
